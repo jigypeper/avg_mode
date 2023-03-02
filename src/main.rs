@@ -73,5 +73,5 @@ fn count_eq(vec: &Vec<u32>, num: u32) -> u32 {
             counter += 1;
         }
     }
-    return counter;
+    counter
 }
