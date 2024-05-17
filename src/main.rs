@@ -12,7 +12,7 @@ fn main() {
 
     println!("Average and Mode Calculator!!");
     
-    // TODO: get rid if loop, just parse one string of number, split on white space
+    // TODO: get rid of loop, just parse one string of numbers, split on white space, set as vector
 
     loop {
 
