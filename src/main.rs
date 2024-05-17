@@ -11,6 +11,8 @@ fn main() {
     let mut list = Vec::new();
 
     println!("Average and Mode Calculator!!");
+    
+    // TODO: get rid if loop, just parse one string of number, split on white space
 
     loop {
 
